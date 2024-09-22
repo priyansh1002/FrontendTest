@@ -1,0 +1,43 @@
+textarea {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  font-size: 16px;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+select {
+  margin-top: 10px;
+  padding: 5px;
+  width: 100%;
+  font-size: 16px;
+}
+
+h1, h3 {
+  font-family: 'Arial', sans-serif;
+}
+
+div {
+  margin-bottom: 20px;
+}
+
+strong {
+  font-weight: bold;
+}
+
+label {
+  margin-right: 15px;
+  font-size: 18px;
+}
+
+input[type="checkbox"] {
+  margin-right: 5px;
+}
